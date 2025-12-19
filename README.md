@@ -34,18 +34,8 @@ To design a **virtual traffic system** where:
 
 You can store your demo screenshots and videos in the /media/ folder.
 
-## 🙋‍♂️ Contributors
-Arnav Sharma (Team Lead)
-
-Akash Pandit (Team Co-Lead)
-
-Ganta Sanjay Reddy
-
-Abhishek Mishra
-
-Shaurya Shukla
-
-Atharv Gupta
+## 🙋‍♂️ Developer
+- Akash Pandit 
 
 
 ## 📜 License
